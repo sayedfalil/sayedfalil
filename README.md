@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm SAYED FALIL</h1>
-<h3 align="center">Systems Architect | Building Scalable Products & AI-Driven Platform</h3>
+## Hi 👋, I’m Sayed Falil
 
-- 🔭 I’m currently working on [Leajlak Logistics Platform,AI-powered Business Tools](Leajlak.com)
+### Digital Transformation Architect | Systems & Platform Strategy | Business-Driven Technology
 
-- 🌱 I’m currently learning **Applied AI agents & workflows Large-scale system design patterns Product-driven architecture**
+---
 
-- 👯 I’m looking to collaborate on **AI-first SaaS products Scalable backend / system design projects Startup MVPs that need architecture clarity**
+### 🛠 Professional Focus
+- Leading **digital transformation initiatives** from legacy or fragmented systems  
+- Designing **end-to-end platforms** aligned with business operations  
+- Translating complex business processes into **clear, scalable digital systems**
 
-- 🤝 I’m looking for help with **AI agents & real-world AI integration Productizing internal tools into SaaS**
+---
 
-- 📝 I regularly write articles on [LinkedIn,Medium](LinkedIn,Medium)
+### 🏢 Current Work
+- **Leajlak Logistics Platform** – driving digital transformation of logistics operations through custom platforms  
+- Ownership of **system architecture, workflows, integrations, and long-term technical direction**
 
-- 💬 Ask me about **System architecture & scalability,Startup tech decisions,Logistics tech & real-time systems AWS & cloud strategy**
+---
 
-- 📫 How to reach me **sayedfalil@gmail.com**
+### 🧩 Core Expertise
+- Digital transformation & platform modernization  
+- System architecture & process automation  
+- Product & platform strategy  
+- Cross-team technical leadership  
+- Business-to-technology translation  
 
-- ⚡ Fun fact **I enjoy designing systems more than writing code I build calm systems for chaotic businesses I turn messy ideas into working products**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🌱 Continuous Learning
+- Applied AI for operational efficiency  
+- Platform thinking & system evolution  
+- Decision-making frameworks for large systems  
+
+---
+
+### 💬 Ask me about
+- Digital transformation strategy  
+- Turning manual or chaotic operations into platforms  
+- Architecture reviews & system redesign  
+- Aligning tech decisions with business outcomes  
+
+---
+
+### 📫 Contact
+- Website: https://zakysoft.com  
+- LinkedIn: https://www.linkedin.com/in/sayedfalil  
+- Email: sayed@zakysoft.com  
+
+---
+
+### ⚡ Fun fact
+I don’t chase tools — I design systems that businesses can actually run on.
